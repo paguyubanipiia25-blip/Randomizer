@@ -1,2 +1,1 @@
-# Randomizer
-just a randomizer for a group team
+Tiap mau nambah nama di enter dulu ya fellas
