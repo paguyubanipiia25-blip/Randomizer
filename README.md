@@ -5,4 +5,4 @@ Cara penggunaan:
 3. Klik "acak",
 4. Kelompok berhasil dibentuk.
 
-Note: Tiap mau nambah nama di enter dulu ya fellas
+Note: Tiap mau nambah nama di enter dulu ya fellow
